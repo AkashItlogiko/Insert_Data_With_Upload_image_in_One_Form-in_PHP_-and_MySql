@@ -55,6 +55,7 @@ Picture :<br>
 
 </form>
 
+<!--  ay jayga thaki image gula ka show korano hoyasa -->
 <?php
 
 $sql = "SELECT * FROM student ORDER BY id DESC LIMIT 3";
